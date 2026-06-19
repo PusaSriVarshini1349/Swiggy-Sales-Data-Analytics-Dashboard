@@ -42,7 +42,7 @@ The dashboard includes slicers for:
 - Category
 ---
 ## Project Screenshot
-![Dashboard](Screenshots/Swiggy_Dashboard_Preview.png)
+<img src="Dashboard_Image.png" alt="Swiggy Sales Dashboard" width="800"/>
 ---
 ## Business Insights
 This dashboard helps identify:
